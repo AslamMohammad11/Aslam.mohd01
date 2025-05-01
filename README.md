@@ -1,6 +1,4 @@
-## Build your own &lt;insert-technology-here&gt;
-
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+This repository compiles well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
 It's a great way to learn.
 
